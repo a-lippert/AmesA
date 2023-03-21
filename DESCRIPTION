@@ -11,3 +11,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 Suggests: 
     tidyverse
+URL: https://github.com/a-lippert/AmesA
+BugReports: https://github.com/a-lippert/AmesA/issues
