@@ -1,11 +1,11 @@
 Package: AmesA
-Title: Estimate mesophyll area to leaf area ratio
+Title: Estimate mesophyll area per leaf area ratio
 Version: 0.0.0.9000
 Authors@R: 
     person("Alston", "Lippert", , "a.lippert@ufl.edu", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Functions for averaging anatomical measurements as well as estimating mesophyll airspace fraction, surface area and volume of spongey, palisade I, and palisade H mesophyll cells, and mesophyll area to leaf area ratio. Methodology from https://prometheusprotocols.net/estimating-the-mesophyll-surface-area-per-leaf-area-from-leaf-cell-and-tissue-dimensions-measured-from-transverse-cross-sections/.
-License: MIT + file LICENSE
+License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
